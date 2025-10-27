@@ -1,0 +1,13 @@
+tensorflow
+keras
+numpy
+pandas
+streamlit
+sckit-learn
+tensorboard
+scikeras
+nltk
+matplotlib
+seaborn
+plotly
+
