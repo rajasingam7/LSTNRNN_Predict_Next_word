@@ -3,11 +3,13 @@ keras
 numpy
 pandas
 streamlit
-sckit-learn
+scikit-learn==1.5.2
+scikit-learn-extra
 tensorboard
 scikeras
 nltk
 matplotlib
 seaborn
 plotly
+sklearn
 
