@@ -11,5 +11,5 @@ nltk
 matplotlib
 seaborn
 plotly
-sklearn
+
 
